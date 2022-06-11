@@ -72,3 +72,18 @@
 	font-size: 20px;
 	font-weight: 900;
 }
+.content{
+	display: flex;
+	justify-content: center;
+	flex-direction: row;
+}
+.content ul li{
+	margin-top: 10px;
+}
+.skills ul{
+	list-style-type:circle;
+	font-size: 20px;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
