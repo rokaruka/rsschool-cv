@@ -1,5 +1,4 @@
 
-
 .main{
 	margin-left: 15%;
 	margin-right: 15%;
@@ -120,6 +119,8 @@
 	text-decoration: none;
 }
 .information_titles{
+	font-size: 30px;
+	font-weight: bold;
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
 	
 }
