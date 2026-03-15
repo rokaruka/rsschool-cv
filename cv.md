@@ -1,1 +1,1 @@
-Anton Klabukov
+Anton Klabukov frontend dev
